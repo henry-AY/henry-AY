@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on "Fortune Forest", an indie adventure game
-- 🌱 I’m currently learning Godot Game Development
+I am working on jhGPT and Fortune Forest.
 
 <!--
 **Hy8012/Hy8012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
