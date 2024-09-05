@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am working on jhGPT and Fortune Forest.
+I am working on jhGPT and Fortune Forest. 
+
+Please check each file individually for the license.
 
 <!--
 **Hy8012/Hy8012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
