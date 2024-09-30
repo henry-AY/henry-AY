@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there
 
-I am working on jhGPT and Fortune Forest. 
-
+I am working primarily working on jh-GPT
 Please check each file individually for the license.
 
 <!--
